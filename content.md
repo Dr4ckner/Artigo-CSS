@@ -1,8 +1,4 @@
 
-<p align="center">
-<image src=imagens/CSS.png>
-</p>
-
 ## Introdução
 
 Você já brincou de arrumar seus brinquedos em uma prateleira ou um tabuleiro? No mundo dos sites, fazemos algo parecido para deixar tudo bonito e organizado. Hoje, vamos aprender sobre uma ferramenta mágica chamada Box Alignment no CSS, que nos ajuda a colocar os elementos em seus lugares certinhos na tela. Vamos explorar como isso funciona!
